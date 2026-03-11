@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**MasonTech123/MasonTech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mason, a cyber securist based in New York.
 
-Here are some ideas to get you started:
+I chase after solutions and cant stop until I find it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+Fun Facts:
+
+  Hobbies: cars,exercising,anime,gaming
+
+  Solving things are fun to me
+ 
+  I dont like coffee
