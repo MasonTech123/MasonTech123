@@ -2,7 +2,7 @@
 
 I'm Mason, a cyber securist based in New York.
 
-I chase after solutions and cant stop until I find it.
+I chase after solutions and cant stop until I find them.
 
 
 
@@ -13,7 +13,7 @@ I chase after solutions and cant stop until I find it.
 
 Fun Facts:
 
-  Hobbies: cars,exercising,anime,gaming
+  My Hobbies: Cars, Exercising, Anime, Gaming
 
   Solving things are fun to me
  
